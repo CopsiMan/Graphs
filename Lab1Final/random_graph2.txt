@@ -1,0 +1,1 @@
+impossible to create a graph with 6 vertices and 40 edges. We would need to have duplicate edges, not compatible with the dictionaries representation approach.
